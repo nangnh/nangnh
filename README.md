@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**nangnh/nangnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** with over 5 years of experience in **web development**, specializing in **ReactJS** and **TypeScript**. I focus on building high-performance, SEO-optimized, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- 💻 Languages: JavaScript, TypeScript, HTML5, CSS3, Sass, Python, C++.
+- ⚛️ Frameworks: ReactJS, Next.js, Vue/Nuxt, Node.js
+- 🔧 Tools: Git, Webpack, Vite, ESLint, Prettier
+- 📈 Others: REST API, SEO Optimization, Performance Tuning
+
+---
+
+### 🌱 Current Focus
+- Improving performance in large-scale apps
+- Learning AI integration with frontend (Gemini, OpenAI, Cursor)
+- Contributing to open source and personal projects
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [https://www.linkedin.com/in/nangnguyen2023]
+- Email: [huunangbkdn@gmail.com]
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
