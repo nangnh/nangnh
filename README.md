@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Nang Nguyen!
 
 I'm a passionate **Frontend Developer** with over 5 years of experience in **web development**, specializing in **ReactJS** and **TypeScript**. I focus on building high-performance, SEO-optimized, and user-friendly web applications.
 
