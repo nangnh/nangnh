@@ -21,8 +21,8 @@ I'm a passionate **Frontend Developer** with over 5 years of experience in **web
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [https://www.linkedin.com/in/nangnguyen2023]
-- Email: [huunangbkdn@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/nangnguyen2023
+- Email: huunangbkdn@gmail.com
 
 ---
 
