@@ -25,5 +25,3 @@ I'm a passionate **Frontend Developer** with over 5 years of experience in **web
 - Email: huunangbkdn@gmail.com
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
