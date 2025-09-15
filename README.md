@@ -7,7 +7,7 @@ I'm a passionate **Frontend Developer** with over 5 years of experience in **web
 ### 🛠️ Technologies & Tools
 
 - 💻 Languages: JavaScript, TypeScript, HTML5, CSS3, Sass, Python, C++.
-- ⚛️ Frameworks: ReactJS, Next.js, Vue/Nuxt, Node.js
+- ⚛️ Frameworks: ReactJS, NextJS, VueJS, NuxtJS, Node.js, NestJS
 - 🔧 Tools: Git, Webpack, Vite, ESLint, Prettier
 - 📈 Others: REST API, SEO Optimization, Performance Tuning
 
